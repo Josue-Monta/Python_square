@@ -45,5 +45,6 @@ Asegúrate de tener instalado Python 3.x en tu sistema para ejecutar el script.
 El script utiliza el módulo estándar math de Python para cálculos matemáticos.
 
 Se adjunta captura de la ejecucción del archivo
-![image](https://github.com/Josue-Monta/Python_square/assets/169925944/715eb13c-af09-4a86-a096-408243340a17)
+![image](https://github.com/Josue-Monta/Python_square/assets/169925944/6eb11364-3461-43fe-a412-6194af3f7838)
+
 
