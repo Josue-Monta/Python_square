@@ -43,3 +43,7 @@ El script verifica si el número ingresado es negativo y maneja este caso inform
 Notas Adicionales
 Asegúrate de tener instalado Python 3.x en tu sistema para ejecutar el script.
 El script utiliza el módulo estándar math de Python para cálculos matemáticos.
+
+Se adjunta captura de la ejecucción del archivo
+![image](https://github.com/Josue-Monta/Python_square/assets/169925944/715eb13c-af09-4a86-a096-408243340a17)
+
